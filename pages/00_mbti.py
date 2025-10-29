@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="🌟 MBTI 기반 진로 추천!", page_icon="💫", layout="wide")
 
-st.title("💖 MBTI로 보는 나의 인생 직업 ✨")
+st.title("💖 MBTI로 보는 나의 인생✨")
 st.subheader("너의 성격 속에 숨겨진 미래 직업을 찾아보자! 🚀")
 
 mbti = st.selectbox(
